@@ -2,8 +2,8 @@
 
 ## 📌 Overview
 This project is a Weather Analytics Dashboard built using Microsoft Power BI, designed to provide an interactive and visually appealing overview of weather conditions and air quality metrics.
-The dashboard presents real-time–style insights for Malang, Indonesia, with comparative city views and short-term forecasts.
-It focuses on data visualization, user-friendly UI, and decision-support insights.
+The dashboard presents real-time–style insights for cities in Indonesia, with comparative city views and short-term forecasts.
+It focuses on data visualization, user-friendly UI, and decision-support insights. This dashboard uses resources from https://www.weatherapi.com 
 
 ## 🎯 Objectives
 1. Visualize current weather conditions in a single glance
@@ -14,7 +14,7 @@ It focuses on data visualization, user-friendly UI, and decision-support insight
 
 ## 📊 Key Features
 ### 🌡️ Current Weather Summary
-a. Location: Malang
+a. Location: Jakarta, Bandung, Yogyakarta, Bali, Malang, Surabaya
 b. Current temperature (°C)
 c. Weather condition (e.g., light rain)
 d. Last updated timestamp
