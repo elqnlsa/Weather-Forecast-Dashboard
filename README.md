@@ -1,7 +1,5 @@
 # 🌦️ Weather-Forecast-Dashboard (Power BI)
 
-![Uploading Dashboard Preview.png…]()
-
 ## 📌 Overview
 This project is a Weather Analytics Dashboard built using Microsoft Power BI, designed to provide an interactive and visually appealing overview of weather conditions and air quality metrics.
 The dashboard presents real-time–style insights for cities in Indonesia, with comparative city views and short-term forecasts.
